@@ -7,6 +7,7 @@ import java.util.List;
  * Implements teachers and student
  * using an ArrayList.
  * Created by Rakshith on 4/3/2017.
+ * Copied byt Fish
  */
 public class School {
 
