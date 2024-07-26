@@ -2,6 +2,7 @@ package org.example;
 
 /**
  * Created by Rakshith on 4/3/2017.
+ * Copied by Fish
  * This class is responsible for keeping the track
  * of teacher's name, id, salary.
  */
